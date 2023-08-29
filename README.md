@@ -1,2 +1,3 @@
 # Mqtt4V
-test
+developed base on python3.9
+对paho-mqtt的二次封装，使用前安装paho-mqtt库
